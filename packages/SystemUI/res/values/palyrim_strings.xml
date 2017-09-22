@@ -45,4 +45,8 @@
      <!-- DC Dimming -->
     <string name="quick_settings_dc_dimming_label">DC Dimming</string>
 
+    <!-- SystemUI tuner -->
+    <string name="lockscreen_default">Default</string>
+    <string name="lockscreen_hidden">None</string>
+
 </resources>
