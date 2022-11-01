@@ -5654,6 +5654,12 @@ public final class Settings {
         };
 
         /**
+         * Whether to show IME space
+         * @hide
+         */
+        public static final String HIDE_IME_SPACE_ENABLE = "hide_ime_space_enable";
+
+        /**
          * These are all public system settings
          *
          * @hide
